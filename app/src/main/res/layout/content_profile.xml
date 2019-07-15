@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".profileActivity"
+    tools:showIn="@layout/activity_profile"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Track : Android"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Track : Android"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Country : Kenya"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Email : janedoe@gmail.com"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Email : janedoe@gmail.com"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Phone : 0720106543"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="70px"
+        android:text="Slack username : menty44"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="123dp" />
+    </LinearLayout>
